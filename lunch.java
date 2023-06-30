@@ -32,3 +32,11 @@ System.out.println("element is found at the location: "+ result);
 else {
 System.out.println("element is not found");
 }
+
+
+if (result!=-1) {
+System.out.println("element is found at the location: "+ result);
+}
+else {
+System.out.println("element is not found");
+}
